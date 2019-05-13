@@ -17,5 +17,14 @@ nav a {
   padding-left: : 10px;
   padding-right: 10px;
   background-color: violet;
+}
 
+figcaption {
+  font-size: 10px;
+  position: center;
+}
+
+#featured-property p{
+  width: 800px;
+  text-align: center;
 }
