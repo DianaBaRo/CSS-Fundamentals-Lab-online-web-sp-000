@@ -11,3 +11,8 @@ header {
 img {
   position: center;
 }
+
+nav a {
+  align-items: center;
+  padding: 10px;
+}
